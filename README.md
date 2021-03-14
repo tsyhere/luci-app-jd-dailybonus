@@ -71,3 +71,4 @@ openwrt-nanopi-r1s-h5 ： https://github.com/jerrykuku/openwrt-nanopi-r1s-h5
 ### 支持我
 如果你觉得我做的不错，可以赞赏一下。
 <img src="https://raw.githubusercontent.com/jerrykuku/staff/master/photo_2019-12-22_11-40-20.jpg" width="300" height="300">
+
